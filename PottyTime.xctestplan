@@ -1,0 +1,30 @@
+{
+  "configurations" : [
+    {
+      "id" : "A2787961-A749-47FB-955D-2376245355E4",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:PottyTime.xcodeproj",
+      "identifier" : "9FC103C72F5CEAD6009D283E",
+      "name" : "PottyTime"
+    },
+    "testExecutionOrdering" : "alphabetical"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:PottyTime.xcodeproj",
+        "identifier" : "9F0CF2BB2F7A124700229671",
+        "name" : "PottyTimeUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
